@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/argun8394](https://github.com/argun8394)
 
-- 💬 Ask me about **Angular, React, JavaScript, TypeScript, HTML, CSS, Bootstrap**
+- 💬 Ask me about **Rract.js, Next.js, Vue.js, Angular, Node.js, JavaScript, TypeScript, HTML, CSS, Bootstrap**
 
 - 📫 How to reach me **www.linkedin.com/in/ali-argün**
 
